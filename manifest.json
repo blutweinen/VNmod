@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+   
+    "name": "VNmod",
+    "version": "0.0.1",
+    "description": "Modifying the f/sn browser version to look and act more like the original",
+   
+    
+
+    "content_scripts": [{
+      "js": ["content.js"],
+      "matches": ["https://fatestaynight.vnovel.org/*"],
+      "run_at": "document_end"
+      
+    }]
+   
+  }

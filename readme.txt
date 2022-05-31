@@ -26,12 +26,6 @@ Goals:
     Make non-focused text fully transparent
     Add onClick functionality
 
-Feature creep goals:
-    Add some sort of opacity toggle
-        Tilde is debug, maybe ~ + 1 for default and + 2 for transparent?
-    Add access to the flowchart as an overlay
-        https://stackoverflow.com/questions/18145273/how-to-load-an-external-webpage-into-a-div-of-a-html-page
-
 Packaging:
     Chrome:
         https://groups.google.com/a/chromium.org/g/chromium-apps/c/F4W0bCmYryw?pli=1
